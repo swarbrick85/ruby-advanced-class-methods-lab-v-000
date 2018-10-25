@@ -53,5 +53,7 @@ class Song
     b = a[1].split(".")
     x.name = b[0]
     x
-  end 
+  end
+  
+  def 
 end
