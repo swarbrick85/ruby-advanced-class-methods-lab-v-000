@@ -52,6 +52,6 @@ class Song
     x.artist_name = a[0] 
     b = a[1].split(".")
     x.name = b[0]
-    
+    x
   end 
 end
